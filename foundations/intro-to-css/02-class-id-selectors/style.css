@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgba(255, 102, 102, 0.652);
+    font-family: 'Verdana' , 'DehaVu Sans' , 'san-serif';
+}
+
+#id2 {
+    color: hsl(240, 100%, 40%);
+    font-size: 36px;
+    font-weight: 550;
+}
+
+.size-change,
+#id4 {
+    font-size: 24px;
+}
+
+#id4 {
+background-color: #66ff339f;
+font-weight: 700;
+}
